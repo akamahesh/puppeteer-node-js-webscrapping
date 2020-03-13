@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer-nodejs",
+  "version": "1.0.0",
+  "description": "puppeteer-nodejs-webscrapping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamahesh/puppeteer-node-js-webscrapping.git"
+  },
+  "author": "akamahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akamahesh/puppeteer-node-js-webscrapping/issues"
+  },
+  "homepage": "https://github.com/akamahesh/puppeteer-node-js-webscrapping#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
